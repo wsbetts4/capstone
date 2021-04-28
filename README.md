@@ -28,9 +28,9 @@ How many wolves call Yellowstone their home? Where do these wolves travel during
 * Tableau
 
 ## Data Sources
-*[Weak spatiotemporal response of prey to predation risk in a freely interacting system; Cusack et. al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003944/)
-*[Yellowstone Forever Wolf Project](https://www.nps.gov/yell/learn/nature/wolf-reports.htm)
-*[Yellowstone National Park Boundary](https://www.sciencebase.gov/catalog/item/4ffb3aebe4b0c15d5ce9fc0b)
+* [Weak spatiotemporal response of prey to predation risk in a freely interacting system; Cusack et. al.](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC7003944/)
+* [Yellowstone Forever Wolf Project](https://www.nps.gov/yell/learn/nature/wolf-reports.htm)
+* [Yellowstone National Park Boundary](https://www.sciencebase.gov/catalog/item/4ffb3aebe4b0c15d5ce9fc0b)
 
 ## Thanks
 A special thanks to Erin Stahler with the Yellowstone National Park Service for helping me out, maintaining all of the data and their bases, and keeping the wolves safe. Also, thanks to Jeremy Cusack, Micehl Kohl, Matthew Metz, Tim Coulson, Daniel Stahler, Douglas Smith, and Daniel MacNulty for sharing their data and publishing their study, Weak spatiotemporal response of prey to predation risk in a freely interacting system, which was a great help. Lastly, Yellowstone Wolves edited by Douglas Smith, Daniel Stahler, and Daniel MacNulty is just awesome.
